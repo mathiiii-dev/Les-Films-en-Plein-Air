@@ -1,0 +1,34 @@
+body
+{
+    font-family: Montserrat, sans-serif;
+    background-color: #7F4F9A   ;
+}
+
+nav
+{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0 7px 7px rgba(0,0,0,0.25),
+    0 7px 7px rgba(0,0,0,0.22);
+}
+
+.logo
+{
+    width: 90px;
+    height: 90px;
+}
+
+h1, h2, h3, h4, p, a
+{
+    color: white;
+}
+
+.text-contact
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+form{
+    color: white;
+}
