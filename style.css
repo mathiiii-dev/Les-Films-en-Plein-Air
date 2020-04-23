@@ -48,8 +48,36 @@ form{
     color: #4E1C69;
 }
 
-.btn-film{
-    color: white;!important;
+.cercle
+{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 25px auto;
+    background-color: #2ecc71;
+    border-radius: 50%;
 }
 
+.img-check
+{
+    height : 100px;
+    width : 90px;
+    margin: 50px;
+}
+
+.premiere
+{
+    display: block;
+    visibility: visible;
+}
+
+.deuxieme
+{
+    display: none;
+    visibility: hidden;
+}
+
+.text-form{
+    text-align: center;
+}
 
